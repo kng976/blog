@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Izdaouir mon premier test"
+date:   2018-11-07 13:49:11 +0300
+categories: jekyll update
+---
+Ceci est notre prier article.
+
+Ci dessous nos titres
+
+# Titre important
+## Titre moins important
+### Et ainsi de suite
+
+Il est possible d'aller jusqu'à 6 niveaux.
+
+*Ceci est notre texte en italique*
+**Ceci est notre texte en gras**
+
+Il est possible de créer des tableaux (AltGr 6 pour le trait vertical) :
+
+|1ère case|2ème case|
+|.........|.........|
+|3ème case|4ème case|
+
+Il est également possible de créer des listes :
+- 1er élément
+- 2ème élément
+
+1. 1er élément
+
+Il est également possible d'ajouter une image :
+
+![iz]({{ "/assets/iz.jpg" | absolute_url }})
+
+Pour les liens url plusieurs façon :
+[mon lien vers Google](https://www.google.fr)
+ou
+**source : <https://.google.fr>**
+
+on peut citer :
+> Ma citation 
+
