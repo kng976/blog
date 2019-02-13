@@ -5,7 +5,6 @@ description: the good site of life
 {% for post in paginator.posts %}
     {% include article_index.html %}
 {% endfor %}
-
 {% if paginator.total_pages > 1 %}
     <div class="pagination">
         <!-- link to first page -->
