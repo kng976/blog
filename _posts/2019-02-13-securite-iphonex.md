@@ -36,9 +36,3 @@ Ils auraient ainsi réussi à leurrer ce dispositif de quarantaine, justement fa
 
 
 source : <https://www.journaldunet.com/solutions/expert/70124/faille-de-securite-de-l-iphone-x---exlications.shtml>
-
-```yml
----
-layout: post-full
----
-```
