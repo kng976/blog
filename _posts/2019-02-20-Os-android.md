@@ -2,7 +2,6 @@
 author: Asmed
 layout: post-full
 title: Android, le système d’exploitation mobile de Google
-![asmed]({{ "https://media.melty.fr/article-2509357-head-f1415812488/android-infographie-systeme-d-exploitation.jpg" | absolute_url}})
 tags: [text]
 category: [Os]
 ---
