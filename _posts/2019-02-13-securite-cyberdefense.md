@@ -1,15 +1,15 @@
 ---
 author: Fazul
 layout: post-full
-title: Full Width Post
+title: Les données personnelles des cadors de la cyberdéfense française ont fuité sur la Toile
 tags: [text]
 category: [Sécurite]
 
----
+
 <html>
 
   <body>
-	  **Les données personnelles des cadors de la cyberdéfense française ont fuité sur la Toile**
+	  
 
   Plus de 2 200 noms et coordonnées personnelles des principaux directeurs en sécurité informatique de la Nation étaient en accès libre sur le site Web du Clusif, le club des experts en sécurité informatique français.
 
@@ -24,6 +24,5 @@ Le fichier était hébergé par le Clusif, mais mal protégé. Une erreur ultra-
 </html>
 
  
-layout: post-full
----
-``
+
+
