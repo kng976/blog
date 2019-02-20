@@ -2,7 +2,6 @@
 author: Asmed
 layout: post-full
 title: Android, le système d’exploitation mobile de Google
-featimg: https://images.indianexpress.com/2018/03/android-p-main.jpg
 tags: [text]
 category: [Os]
 ---
