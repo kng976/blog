@@ -25,7 +25,7 @@ Pour Emily Wilson, vice-présidente de la recherche chez Terbium Labs, la compil
 Bien que les informations volées soient anciennes, les pirates parient qu'un petit pourcentage des personnes présentes dans la base de données n'a jamais changé ses identifiants ou utilise toujours les mêmes mots de passe. 
 >« Même les comptes dont les mots de passe ont été modifiés depuis sont toujours en danger : les adresses électroniques sont des cibles appétissantes pour les attaques par phishing et la réutilisation régulière des mots de passe sur plusieurs plateformes signifie que même si le compte exposé a subi un changement de mot de passe, il peut y avoir beaucoup d'autres comptes utilisant toujours ce même mot de passe compromis », analyse Emily Wilson.
 <br/>
-**Testez vos adresses mail**
+**Testez vos adresses mail** 
 
 La quantité massive de données volées est très utile pour faire du credential stuffing, une technique de cyberattaque dans laquelle des robots inondent plusieurs services avec le même ensemble d'informations de connexion aussi rapidement que possible. Si quelqu'un utilise le même nom d'utilisateur et le même mot de passe pour son compte piraté sur LinkedIn que pour son compte bancaire, par exemple, c’est bingo pour le pirate.
 <br/>
