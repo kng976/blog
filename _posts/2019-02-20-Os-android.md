@@ -2,7 +2,7 @@
 author: Asmed
 layout: post-full
 title: Android, le système d’exploitation mobile de Google
-featimg: https://images.indianexpress.com/2018/03/android-p-main.jpg
+![asmed]({{ "https://media.melty.fr/article-2509357-head-f1415812488/android-infographie-systeme-d-exploitation.jpg" | absolute_url}})
 tags: [text]
 category: [Os]
 ---
@@ -29,8 +29,4 @@ Android affirme qu’aucun fabricant n’est obligé d’installer par défaut l
 <br>
 <https://lnt.ma/android-systeme-dexploitation-mobile-de-google/>
 
-```yml
----
-layout: post-full
----
-```
+
