@@ -22,6 +22,7 @@ Dans la première collection, les données volées proviennent de brèches remon
 Pour Emily Wilson, vice-présidente de la recherche chez Terbium Labs, la compilation de données à partir d'anciennes attaques pourrait constituer une nouvelle tendance pour les cybercriminels.
 >« Les données de milliers de brèches, petites et grandes, circulent sur le dark web tous les jours » dit-elle. « Rien n'empêche un criminel entreprenant de rassembler les données et de les revendre, surtout s’il peut en tirer des profits. »
 <br/>
+
 Bien que les informations volées soient anciennes, les pirates parient qu'un petit pourcentage des personnes présentes dans la base de données n'a jamais changé ses identifiants ou utilise toujours les mêmes mots de passe. 
 >« Même les comptes dont les mots de passe ont été modifiés depuis sont toujours en danger : les adresses électroniques sont des cibles appétissantes pour les attaques par phishing et la réutilisation régulière des mots de passe sur plusieurs plateformes signifie que même si le compte exposé a subi un changement de mot de passe, il peut y avoir beaucoup d'autres comptes utilisant toujours ce même mot de passe compromis », analyse Emily Wilson.
 <br/>
@@ -30,3 +31,5 @@ Bien que les informations volées soient anciennes, les pirates parient qu'un pe
 La quantité massive de données volées est très utile pour faire du credential stuffing, une technique de cyberattaque dans laquelle des robots inondent plusieurs services avec le même ensemble d'informations de connexion aussi rapidement que possible. Si quelqu'un utilise le même nom d'utilisateur et le même mot de passe pour son compte piraté sur LinkedIn que pour son compte bancaire, par exemple, c’est bingo pour le pirate.
 <br/>
 L’Institut Hasso Plattner a créé une **page web** (https://sec.hpi.de/ilc/) spéciale pour savoir si les identifiants figurent dans la base de données. Dans tous les cas de figure, un changement régulier des mots de passe, la définition de mots passe fort et/ou le recours à un gestionnaire de mots de passe sont vivement recommandés.
+
+source : <https://www.cnetfrance.fr/news/2-milliards-de-comptes-pirates-en-telechargement-gratuit-sur-le-dark-web-39880097.htm>
