@@ -28,8 +28,4 @@ Android affirme qu’aucun fabricant n’est obligé d’installer par défaut l
 <br>
 <https://lnt.ma/android-systeme-dexploitation-mobile-de-google/>
 
-```yml
----
-layout: post-full
----
-```
+
