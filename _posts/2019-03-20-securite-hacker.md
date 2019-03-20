@@ -19,7 +19,8 @@ L’information a été révélée, vendredi 15 mars, par le reporter américain
 
 Selon Reuters, rien ne permet de déterminer le niveau technique en termes de hacking de Beto O’Rourke. Néanmoins, son appartenance à ce collectif explique pour eux son approche « différente des autres » à propos « des médias, de la technologie et du gouvernement ». L’ancien hacker se démarque un peu plus du profil type des candidats américains à la Maison blanche.
 
-    « Il est tout simplement très important de pouvoir être à l’écart du système, de l’examiner de façon critique et de s’amuser pendant que vous le faites », a déclaré M. O’Rourke à Reuters. « Je pense que « Cult of the Dead Cow » en est un excellent exemple. »
+
+
 <a href="https://www.01net.com/actualites/un-ancien-hacker-dans-la-course-pour-la-maison-blanche-1655505.html"> Pour voir plus clic ici </a>
 
 
