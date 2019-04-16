@@ -8,7 +8,7 @@ date:   2019-04-12 15:36:27
 category: Sécurité
 ---
 
-Pour son étape aixoise des Cybermatinées Sécurité du 15 mai 2019, la rédaction du Monde Informatique vous invite pour une matinée riche en contenus articulée autour de 2 débats, d'un grand entretien ainsi que des cas pratiques et démonstrations. Franck Chemin (CISO du Crédit Agricole Alpes Provence), Eric Odin (RSSI TechnicAtome), Jérôme Poggi (RSSI de la Ville de Marseille), Moïse Moyal (ANSSI) et l'adjudant-chef Patrick Quillet (Chef du groupe Cyber, section de recherche de Marseille) interviendront
+**Pour son étape aixoise des Cybermatinées Sécurité du 15 mai 2019, la rédaction du Monde Informatique vous invite pour une matinée riche en contenus articulée autour de 2 débats, d'un grand entretien ainsi que des cas pratiques et démonstrations. Franck Chemin (CISO du Crédit Agricole Alpes Provence), Eric Odin (RSSI TechnicAtome), Jérôme Poggi (RSSI de la Ville de Marseille), Moïse Moyal (ANSSI) et l'adjudant-chef Patrick Quillet (Chef du groupe Cyber, section de recherche de Marseille) interviendront**
 <br/>
 Après une première étape à Lyon qui a rencontré un franc succès avec plus de 90 participants, les Cybermatinées Sécurité de la rédaction du Monde Informatique poursuivent leur tournée en région avec une halte à Aix-en-Provence le mercredi 15 mai 2019. Cet événement, réalisé avec le soutien des clubs partenaires locaux Clusir PACA et CIP ainsi que nationaux AFCDP, Cesin et Clusif, est réservé aux professionnels sécurité et IT en entreprises utilisatrices.
 <br/>
@@ -17,7 +17,7 @@ Au menu de cette matinée riche en contenus : 2 débats (Cybersécurité augment
 
 <br/>
 
-*Démonstrations et cas pratiques phishing, SOC et détection comportementale des menaces*
+**Démonstrations et cas pratiques phishing, SOC et détection comportementale des menaces**
 
 <br/>
 
