@@ -1,9 +1,11 @@
 ---
 author: Asmed
+layout: post
 layout: post-full
-title: Cybermatinée Sécurité Aix: Les RSSI de la Ville de Marseille, TechnicAtome et Crédit Agricole interviendront
-tags: [text]
-category: [Securite]
+title:  "Cybermatinee"
+tags: [Cybermatinee]
+date:   2019-04-16 08:36:27
+category: Sécurité
 ---
 
 **Pour son étape aixoise des Cybermatinées Sécurité du 15 mai 2019, la rédaction du Monde Informatique vous invite pour une matinée riche en contenus articulée autour de 2 débats, d'un grand entretien ainsi que des cas pratiques et démonstrations. Franck Chemin (CISO du Crédit Agricole Alpes Provence), Eric Odin (RSSI TechnicAtome), Jérôme Poggi (RSSI de la Ville de Marseille), Moïse Moyal (ANSSI) et l'adjudant-chef Patrick Quillet (Chef du groupe Cyber, section de recherche de Marseille) interviendront.**  
