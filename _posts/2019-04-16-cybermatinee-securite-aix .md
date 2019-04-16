@@ -1,31 +1,33 @@
 ---
 author: Asmed
 layout: post-full
-title: Android, le système d’exploitation mobile de Google
+title: Cybermatinée Sécurité Aix: Les RSSI de la Ville de Marseille, TechnicAtome et Crédit Agricole interviendront
 tags: [text]
-category: [Os]
+category: [Securite]
 ---
-Google règne sur les systèmes d’exploitation pour appareils mobiles avec son système Android, présents dans des tablettes, des montres et surtout des smartphones.
 
-Le système d’exploitation est ce qui fait « tourner » l’appareil, ce qui fait fonctionner un ordinateur, à la manière de Windows pour Microsoft.
+**Pour son étape aixoise des Cybermatinées Sécurité du 15 mai 2019, la rédaction du Monde Informatique vous invite pour une matinée riche en contenus articulée autour de 2 débats, d'un grand entretien ainsi que des cas pratiques et démonstrations. Franck Chemin (CISO du Crédit Agricole Alpes Provence), Eric Odin (RSSI TechnicAtome), Jérôme Poggi (RSSI de la Ville de Marseille), Moïse Moyal (ANSSI) et l'adjudant-chef Patrick Quillet (Chef du groupe Cyber, section de recherche de Marseille) interviendront.**  
 
-Selon le cabinet spécialisé Gartner, le système Android, créé en 2007, est archi-dominant dans le monde des smartphones, avec une part de marché de l’ordre de 85,9% (chiffre 2017), contre environ 14% pour iOS, le système d’exploitation d’Apple qui fait fonctionner iPhone et iPad, et 0,1% pour les « autres systèmes d’exploitation ».
+<br/>
 
-Plus de 1,3 milliard de smartphones sous Android se sont vendus en 2017, contre environ 215 millions pour iOS, et 1,5 million pour les autres systèmes d’exploitation.
+Après une première étape à Lyon qui a rencontré un franc succès avec plus de 90 participants, les Cybermatinées Sécurité de la rédaction du Monde Informatique poursuivent leur tournée en région avec une halte à Aix-en-Provence le mercredi 15 mai 2019. Cet événement, réalisé avec le soutien des clubs partenaires locaux Clusir PACA et CIP ainsi que nationaux AFCDP, Cesin et Clusif, est réservé aux professionnels sécurité et IT en entreprises utilisatrices.
+<br/>
 
-Android est un système d’exploitation en « open source » -à la différence d’iOS entièrement contrôlé par Apple-, ce qui signifie que différents fabricants peuvent l’intégrer dans leurs appareils, sans payer de licence.
+Au menu de cette matinée riche en contenus : 2 débats (Cybersécurité augmentée à l’IA et à l’apprentissage machine et Hacking éthique : Apprendre de l’attaquant pour mieux se défendre), un grand entretien de la rédaction avec le délégué à la sécurité numérique PACA de l'ANSSI Moïse Moyal, ainsi qu'un cas pratique décrit par l'adjudant-chef Patrick Quillet (Chef du groupe Cyber, section de recherche de Marseille) sur les moyens mobilisés pour traquer les cyberpirates. Nous aurons le plaisir d'accueillir en plateau pour les débats Jérôme Poggi (RSSI de la Ville de Marseille, Eric Odin (RSSI TechnicAtome) ainsi que Franck Chemin (CISO du Crédit Agricole Alpes Provence) qui animera par ailleurs une présentation sur les enjeux de recrutement et de rétention des talents cyber.  
 
-« Tout le monde, y compris des concurrents d’Android, peut choisir de télécharger, installer, modifier et distribuer son +code source+ gratuitement » pour « développer des applications, des appareils mobiles et même d’autres systèmes d’exploitation », fait valoir le site internet d’Android.
+<br/>
 
-Concrètement, à la différence d’iOS, qui n’équipe que les appareils d’Apple, Android est donc intégré dans les appareils de différents fabricants, notamment le sud-coréen Samsung, leader mondial des smartphones.
+**Démonstrations et cas pratiques phishing, SOC et détection comportementale des menaces**   
+<br/>
+A l'occasion de cette Cybermatinée Sécurité d'Aix-en-Provence, des interventions de nos partenaires Darktrace, RSA, Vade Secure et VMware Scala sont également prévues. Parmi elles : un tour d'horizon des pratiques de hack répandues en 2019, un exemple illustré de détection et prévention de phishing, une mise en situation d'analyse comportementale des menaces,des cas pratiques et retours d'expérience SOC (centre de sécurité opérationnel de sécurité), sécurité des environnements virtualisés et des clouds...  
+<br/>
+<br/>
 
-Cependant, pour éviter une trop grande disparité et faire en sorte que différentes applications soient compatibles avec différents modèles d’appareils sous Android, Google fait signer avec des acteurs extérieurs (fabricants, développeurs d’applications…) des accords de compatibilité (« Google’s voluntary compatibility agreements »).
-
-Android affirme qu’aucun fabricant n’est obligé d’installer par défaut les applications de Google (Chrome, Maps, Gmail etc.) Si le fabricant ou l’opérateur mobile décide néanmoins de les pré-installer dans ses appareils -ce qui est quasi toujours le cas compte tenu de la popularité des ces applications- il leur est possible de pré-installer également d’autres applications concurrentes.
-
-![asmed]({{ "https://static.lexpress.fr/medias_11530/w_2048,h_1146,c_crop,x_0,y_31/w_960,h_540,c_fill,g_north/v1531921824/android-7_5903556.jpg" | absolute_url}})
-
+Retrouvez le programme de la Cybermatinée Sécurité en cliquant sur le lien ci-dessous.
 <br>
-<https://lnt.ma/android-systeme-dexploitation-mobile-de-google/>
+<https://www.cybermatinees.fr/programme-aix-en-provence/?tr=60>
 
+Ainsi que l'article original en cliquant sur le lien ci-dessous.
+<br>
+<https://www.lemondeinformatique.fr/actualites/lire-cybermatinee-securite-aix-les-rssi-de-la-ville-de-marseille-technicatome-et-credit-agricole-interviendront-74977.html> 
 
