@@ -16,7 +16,7 @@ Au menu de cette matinée riche en contenus : 2 débats (Cybersécurité augment
 
 <br/>
 
-####**Démonstrations et cas pratiques phishing, SOC et détection comportementale des menaces**   
+**Démonstrations et cas pratiques phishing, SOC et détection comportementale des menaces**   
 <br/>
 A l'occasion de cette Cybermatinée Sécurité d'Aix-en-Provence, des interventions de nos partenaires Darktrace, RSA, Vade Secure et VMware Scala sont également prévues. Parmi elles : un tour d'horizon des pratiques de hack répandues en 2019, un exemple illustré de détection et prévention de phishing, une mise en situation d'analyse comportementale des menaces,des cas pratiques et retours d'expérience SOC (centre de sécurité opérationnel de sécurité), sécurité des environnements virtualisés et des clouds...  
 <br/>
