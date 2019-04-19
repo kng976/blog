@@ -10,7 +10,11 @@ category: Environnement
 
 Alors que la Californie a connu ces dernières semaines le pire incendie de son histoire, DroneSeed, une start-up implantée à Seattle, envisage de repeupler les forêts grâce à des drones.
 
+<br/>
+
 Plus de 60 000 hectares de forêt sont partis en fumée en Californie au mois de novembre. Un lourd bilan, qui devrait alourdir encore celui, habituel, de presque 3 millions d'hectares brûlés chaque année rien qu'aux États-Unis.
+
+<br/>
 
 Alors pour redonner à la nature sa splendeur, et pour se servir de la technologie pour un projet plus noble que la déforestation, la start-up DroneSeed, originaire de Seattle, combine habilement drone, ingénierie biologique et intelligence artificielle.
 
