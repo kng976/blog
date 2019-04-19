@@ -48,4 +48,5 @@ Là aussi, il existe des précédents. Deux groupes de médias ont été pris po
 <br/> 
 *« Pourquoi casser le système quand il suffit de dire que le système est cassé ? La désinformation est la seule attaque pour laquelle nous n’avons pas de solution »*, lance Valerii Striganov, de la commission électorale. De telles opérations – propagande, manipulation de l’information – sont menées tambour battant par la Russie contre l’Ukraine depuis cinq ans, sur Internet et dans les médias plus traditionnels (la télévision russe est très regardée en Ukraine).
 
-
+<br/>
+source: <https://www.lemonde.fr/pixels/article/2019/03/19/en-ukraine-l-election-presidentielle-face-aux-risques-de-cyberattaque-et-de-desinformation_5438381_4408996.html>
