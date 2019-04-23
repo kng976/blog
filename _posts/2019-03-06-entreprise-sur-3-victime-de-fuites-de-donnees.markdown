@@ -20,7 +20,7 @@ Au cours de l'année écoulée, le nombre d'incidents de sécurité impliquant d
 
 <br/>
 
-**Sécurité sacrifié pour accélérer les déploiements*
+**Sécurité sacrifié pour accélérer les déploiements**
 
 <br/>
 
