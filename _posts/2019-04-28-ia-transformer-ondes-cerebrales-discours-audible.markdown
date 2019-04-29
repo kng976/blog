@@ -21,7 +21,7 @@ Les scientifiques de Université de Californie à San Francisco (USCF) ont réus
 
 <br/>
 
-Pour réussir ce tour de force technologique, les chercheurs ont procédé en deux étapes distinctes. Le réseau d'**électrodes **utilisé est placé sur la partie du cerveau qui contrôle la motricité, puis un programme informatique se charge de simuler un conduit vocal afin **d'interpréter les signaux** comme des mots.
+Pour réussir ce tour de force technologique, les chercheurs ont procédé en deux étapes distinctes. Le réseau d'**électrodes ** utilisé est placé sur la partie du cerveau qui contrôle la motricité, puis un programme informatique se charge de simuler un conduit vocal afin **d'interpréter les signaux** comme des mots.
 
 <br/>
 
