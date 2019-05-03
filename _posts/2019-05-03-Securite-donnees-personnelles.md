@@ -17,7 +17,7 @@ Selon ce compte-rendu, non seulement les atteintes à la protection des données
 <br/>
 L’étude rappelle par ailleurs que plus nous avons de comptes en ligne, plus nous sommes vulnérables. Une personne n’ayant qu’une petite dizaine de comptes différents aura déjà 9 % de chances de voir ses données personnelles mises en danger. Pour 100 occurrences, la probabilité passe à 30 %. La raison de cet état de fait ne provient pas simplement d’un simple calcul proportionnel, mais d’une raison plus pernicieuse : plus il y a de comptes, plus il est probable que nous réutilisions des noms d'utilisateur ou des mots de passe. Cette habitude, très courante, est l’une des failles les plus destructrices que les pirates exploiteront s’ils en ont l’occasion.  
 <br/>
-**Le gestionnaire de mots de passe, indispensable ?**
+**Le gestionnaire de mots de passe, indispensable ?**  
 
 Selon un sondage en ligne mené par Avira auprès de 2 519 répondants, les mauvaises habitudes en matière de sécurité des données ont la peau dure. 36 % des sondés enregistrent ainsi leurs mots de passe dans un navigateur, tandis que 35 % synchronisent autant d’appareils que possible via Internet. Plus d'un répondant sur cinq (22 %) a admis utiliser le moins de mots de passe possible, tandis que 17 % utilisent régulièrement les options « rester connecté ». Enfin, 9 % des personnes interrogées utilisent encore des mots de passe très simples, ce qui facilite grandement le travail d’éventuels intrus.  
 <br/>
