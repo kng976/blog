@@ -4,7 +4,7 @@ layout: post
 layout: post-full
 title:  "5G : Orange se rapproche de Dell Technologies"
 tags: [text]
-date:   2019-05-10 
+date:   2019-05-06 
 category: [Réseaux]
 ---
 <br/>
