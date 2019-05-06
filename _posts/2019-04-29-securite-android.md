@@ -1,13 +1,13 @@
 ---
 author: Donalio
 layout: post
-layout: post-full
-titl:"Vous pourrez bientôt vous identifier sur des apps Android sans mot de passe"
-
-tags: [Text]
-date:   2019-04-29 
-category: [Sécurité]
+title:  "Vous pourrez bientôt vous identifier sur des apps Android sans mot de passe"
+date:   2019-05-03 06:42:45 +0200
+categories: [Sécurité]
 ---
+<br/>
+
+
 <br/>
 **Vous pourrez bientôt vous identifier sur des apps Android sans mot de passe**  
 
