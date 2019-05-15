@@ -4,8 +4,8 @@ layout: post
 layout: post-full
 title:  "INTERNET FIXE ET MOBILE : 30 à 150 KWH D'ELECTRICITE PAR AN"
 tags: [Text]
-date:   2019-05-15
-category: [GREEN IT]
+date: 2019-05-15
+category: [GreenIT]
 ---
 
 Selon UniversFreebox, en 2017, Free a consommé 456 GWh d’électricité (soit l’équivalent de 65.000 français) et émis 32 212 tonnes de gaz à effet de serre (soit 4 000 français). Ce bilan se limite à la phase d’utilisation (scopes 1 et 2), la fabrication et la fin de vie des équipements ne sont donc pas prises en considération.
@@ -30,5 +30,7 @@ Nous avons poussé nos calculs plus loin pour estimer la consommation électriqu
 
 Dans un prochain article, nous compléterons cette étude en incluant la phase de fabrication des équipements et les centres de données pour mettre à jour notre évaluation des impacts environnementaux de l’internet mondial.
 Retrouvez l'article source en cliquant sur le lien ci-dessous.
+
 <br>
+
 https://www.greenit.fr/2018/06/05/internet-fixe-mobile-30-a-150-kwh-delectricite-an/
