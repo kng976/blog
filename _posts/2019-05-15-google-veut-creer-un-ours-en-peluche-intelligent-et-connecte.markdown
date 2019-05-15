@@ -2,7 +2,7 @@
 author: Djinani
 layout: post
 layout: post-full
-title:  "Google veut créer un ours en peluche "intelligent" et connecté "
+title:  "Google veut créer un ours en peluche 'intelligent' et connecté"
 tags: [DroneSeed]
 date:   2019-05-15 05:00
 category: [Innovation]
