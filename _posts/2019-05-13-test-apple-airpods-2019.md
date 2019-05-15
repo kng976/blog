@@ -4,7 +4,7 @@ layout: post
 layout: post-full
 title:  "Test Apple AirPods 2019 : de petites améliorations, mais toujours trop chers "
 tags: [text]
-date:   2019-05-14
+date:   2019-05-13
 category: [Innovation]
 ---
 
