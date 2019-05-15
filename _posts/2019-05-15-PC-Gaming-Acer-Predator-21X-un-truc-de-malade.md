@@ -4,7 +4,7 @@ layout: post
 layout: post-full
 title: PC Gaming Acer Predator 21X, un truc de malade !
 tags: [text]
-date:  23-03-2017 
+date:  2019-05-15
 category: [Intelligence Artificielle]
 ---
 
