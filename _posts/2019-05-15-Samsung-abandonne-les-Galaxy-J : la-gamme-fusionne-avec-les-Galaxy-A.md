@@ -2,7 +2,7 @@
 author: Bacar
 layout: post
 layout: post-full
-title:  "Volkswagen teste des e-Golf autonomes en pleine ville à Hambourg"
+title:  "Samsung abandonne les Galaxy J : la gamme fusionne avec les Galaxy A"
 tags: [Sécurite,e-car]
 date:   2019-05-15 09:46:40
 category: innovation
