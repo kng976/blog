@@ -23,7 +23,9 @@ Au total, 19 équipements (6 %) sont sortis illégalement du pays où ils auraie
 En extrapolant ces données à l’Europe des 28, le BAN estime que l’Europe exporte illégalement 352 474 tonnes de déchets électroniques par an, soit l’équivalent, selon nos calculs, de 2,5 milliards de smartphones !
 
 *L’Afrique principale exutoire*
+
 <br>
+
 Onze déchets exportés illégalement sur 19, soit 64 %, ont fini dans un pays en voie de développement. Avec l’Afrique comme destination de choix.
 
 Les exutoires sont le Nigeria (5 équipements), le Ghana (1), la Tanzanie (1), mais aussi l’Ukraine, le Pakistan, la Thaïlande et Hong Kong. Chaque déchet a parcouru en moyenne 4 127 kilomètres pour un total de 78,408 kilomètres, soit presque 2 tours du monde.
@@ -31,13 +33,19 @@ Les exutoires sont le Nigeria (5 équipements), le Ghana (1), la Tanzanie (1), m
 Comme nous le savons déjà tous, et comme le montre bien le reportage « Déchets électroniques, le grand détournement », les conditions de « recyclage » (notez les guillemets), sont particulièrement catastrophiques pour la santé des êtres humaines (toxicité humaine) et pour l’écosystème où il est pratiqué (écotoxicité), avec notamment l’accumulation de métaux lourds.
 
 *Le Royaume-Uni champion toute catégorie*
+
 <br>
+
 Sans surprise, le Royaume-Uni est le champion toute catégorie de l’exportation illégale de déchets électroniques avec 5 équipements sur 19. La Chine ayant fermé ses frontières pour ce flux, les déchets ont fini au Nigeria, en Tanzanie et au Pakistan.
 
 En revanche, on ne s’attendaient pas à ce que le Danemark et l’Irlande (3 déchets chacun) fasse partie du top 3.
 
 *L’Europe fait mieux que le reste du monde*
+
 <br>
+
 Pour finir par une mise en perspective, rappelons que s’il reste du travail en Europe, le taux d’exportation de déchets électroniques dans des pays tels que les Etats-Unis qui n’ont pas interdit leur exportation est beaucoup plus élevé, de l’ordre de 40 %.
+
 <br>
+
 https://www.greenit.fr/2019/03/05/dechets-electroniques-leurope-est-elle-une-passoire/
