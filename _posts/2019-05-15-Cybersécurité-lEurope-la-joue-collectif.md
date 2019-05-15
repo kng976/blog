@@ -4,7 +4,7 @@ layout: post
 layout: post-full
 title:  "Cybersécurité : l’Europe la joue « collectif »"
 tags: [text]
-date:   2019-05-15
+date:   2019-05-15 13:36:27
 category: [Informatique]
 ---
 <br/>
