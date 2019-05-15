@@ -57,6 +57,9 @@ des services en ligne comme Ecometer.org et Ecoindex.fr ;
 une liste de discussion ;
 des livres blancs ;
 plusieurs sites web de sensibilisation.
+
+<br>
+
 **Contributeurs welcome !**
 
 <br>
