@@ -1,5 +1,5 @@
 ---
-author: Mohamadi
+author: Izdaouir
 layout: post
 layout: post-full
 title:  "Cybersécurité : l’Europe la joue « collectif »"
