@@ -3,7 +3,7 @@ author: Djinani
 layout: post
 layout: post-full
 title:  "L'imprimante 3D africaine à base de déchets recyclés"
-tags: [Google]
+tags: [Imprimante 3D]
 date:   2019-05-15 05:00
 category: [Innovation]
 ---
